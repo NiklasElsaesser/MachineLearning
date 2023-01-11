@@ -1,0 +1,5 @@
+classes = 3
+train = /content/drive/MyDrive/ML-CoinRecognition/Yolo_NiklasEuros/train.txt
+valid = /content/drive/MyDrive/ML-CoinRecognition/Yolo_NiklasEuros/test.txt
+names = /content/drive/MyDrive/ML-CoinRecognition/Yolo_NiklasEuros/classes.names
+backup = backup
